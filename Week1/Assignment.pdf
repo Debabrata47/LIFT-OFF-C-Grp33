@@ -1,0 +1,8 @@
+Q 1.  Write a C program to display your basic information like name, regd no. (only last 3 digits), branch and your hobbies.
+(In this question, you’ll learn how to take an input and display a string and an integer.)
+
+Q 2.  Write a program to find maximum between two numbers.
+(In this question, you’ll learn the use of if-else condition.)
+
+Q 3.  Write a C program to check whether a number is even or odd using switch case.
+(In this question, you’ll apply the switch case concept.)
